@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div style={{ textAlign: "center", marginTop: 50 }}>
       <h1>Trang Chủ</h1>
-      <Link to="/login-phone">
+      <Link to="/login">
         <button>Đăng nhập</button>
       </Link>
     </div>
